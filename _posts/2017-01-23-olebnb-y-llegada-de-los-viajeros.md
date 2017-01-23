@@ -1,5 +1,5 @@
 ---
-layout: post_page
+layout: default
 title: Gestiona sencillamente la llegada de tus viajeros Airbnb con olebnb 
 ---
 ¿Sabe usted lo que se llama "entrega de llaves" en la jerga conciergistique? Esto es a la vez ha entregado las llaves a un cuidador referente de confianza, como los que se pueden encontrar en Welkeys.com ejemplo, trabajadores de limpieza Airbnb, HouseTrip, Wimdu, Likibu cerca de usted. Uno más se ha dicho en este artículo acerca de la entrega de llaves!
